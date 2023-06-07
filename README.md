@@ -11,3 +11,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Gulshirin)
 [![Skype](https://img.shields.io/badge/-Skype-090909?style=for-the-badge&logo=skype&logoColor=27A0D9)](live:.cid.b992f556fe1c1283)
 
+### Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gulshirin&show_icons=true&theme=dark)
