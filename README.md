@@ -1,5 +1,5 @@
 # Gulshirin<h1 align="center">Hi 👋, I'm Gulshirin Avediyeva.</h1>
-<h3 align="center">A passionate frontend developer from Turkmenistan</h3>
+<h3 align="center">A passionate mobile developer from Turkmenistan</h3>
 
 ### Languages and Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
